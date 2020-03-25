@@ -2,7 +2,6 @@
 
 ## Running steps
 
-- First run the server by the command json-server --watch db.json --port 3001
 - Go to shipments-client folder and servr the react app 
 
 ///////////////////////////////////////////////////////////////////////////////////////////
