@@ -2,7 +2,7 @@
 
 ## Running steps
 
-- Go to shipments-client folder and servr the react app 
+- Go to shipments-client folder and serve the react app 
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
